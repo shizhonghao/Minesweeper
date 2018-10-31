@@ -1,2 +1,1 @@
-# Minesweeper
-Minesweeper AI 
+﻿# Minesweeper---- Minesweeper AI is a class project of UCI's 271P intro to AI.- Code is implemented in Python with the given game structure.
